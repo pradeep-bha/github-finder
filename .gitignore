@@ -11,8 +11,10 @@
 # production
 /build
 
+# Env
+githubApi.env
+
 # misc
-.env
 .DS_Store
 .env.local
 .env.development.local
